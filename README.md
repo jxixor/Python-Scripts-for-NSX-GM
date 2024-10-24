@@ -1,0 +1,1 @@
+Created this to show that you can add specific static routes for VMs in a secondary site and advertise those routes to the physical.  This will allow synchronous traffic to and from the VM at a secondary site.
